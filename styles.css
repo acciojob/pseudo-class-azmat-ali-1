@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .Div::after{
-	content:" After Element";
+	content:"After Element";
 	color:red;
 }
 .Div::before{
-	content:"Before Element ";
+	content:"Before Element";
 	color:red;
 }
